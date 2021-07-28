@@ -1,7 +1,7 @@
 <h1 align="center">analog-clock</h1>
 
 <h1 align="center">
-    <img alt="analog-clock" title="analog-clock" src="assets/screenshot.png" />
+    <img alt="analog-clock" title="analog-clock" src="assets/screenshot.PNG" />
 </h1>
 
 <h4 align="center"> 
